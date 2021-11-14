@@ -45,51 +45,6 @@ http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/19.ts
 #EXTINF:0,Super TV HD
 #EXTVLCOPT:network-caching=1000
 http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/20.ts
-#EXTINF:0,TV SARAJEVO
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/21.ts
-#EXTINF:0,TV ZENICA
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/22.ts
-#EXTINF:0,ALFA TV
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/23.ts
-#EXTINF:0,ATV
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/24.ts
-#EXTINF:0,RTRS
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/25.ts
-#EXTINF:0,RTRS Plus
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/26.ts
-#EXTINF:0,MTV IGMAN
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/27.ts
-#EXTINF:0,HIT BRCKO
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/28.ts
-#EXTINF:0,City Tv Mostar
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/29.ts
-#EXTINF:0,TV 5 ISLAM
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/30.ts
-#EXTINF:0,Kanal 6 Zenica
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/31.ts
-#EXTINF:0,HEMA TV
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/32.ts
-#EXTINF:0,Mekka TV
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/33.ts
-#EXTINF:0,B1 HD Gradacac
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/36.ts
-#EXTINF:0,RTV Podrinje (test)
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/39.ts
 #EXTINF:0,HRT 1
 #EXTVLCOPT:network-caching=1000
 http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/41.ts
@@ -300,30 +255,6 @@ http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/135.ts
 #EXTINF:0,Ex-Yu: Viasat History
 #EXTVLCOPT:network-caching=1000
 http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/136.ts
-#EXTINF:0,Ex-Yu: MINIMAX
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/153.ts
-#EXTINF:0,Ex-Yu: HAYATOVCI
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/154.ts
-#EXTINF:0,Ex-Yu: NICKELODEON
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/155.ts
-#EXTINF:0,Ex-Yu: Rtl Kockica
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/156.ts
-#EXTINF:0,Ex-Yu: NICK JUNIOR
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/157.ts
-#EXTINF:0,Ex-Yu: BABY TV
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/158.ts
-#EXTINF:0,Ex-Yu: MASA I MEDO
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/159.ts
-#EXTINF:0,Ex-Yu: TOM AND JERY
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/161.ts
 #EXTINF:0,EX-YU: PINK
 #EXTVLCOPT:network-caching=1000
 http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/163.ts
@@ -512,67 +443,967 @@ http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/287.ts
 http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/288.ts
 #EXTINF:0,NL: Ziggo Sport Racing
 #EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/292.ts
-#EXTINF:0,DE: Das Erste HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/306.ts
-#EXTINF:0,DE: ZDF HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/307.ts
-#EXTINF:0,AT: ORF 1 HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/308.ts
-#EXTINF:0,AT: ORF 2 HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/309.ts
-#EXTINF:0,AT: ORF 3 HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/310.ts
-#EXTINF:0,DE: ATV HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/312.ts
-#EXTINF:0,DE: ATV 2
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/313.ts
-#EXTINF:0,DE: Puls 4
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/314.ts
-#EXTINF:0,DE: RTL HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/315.ts
-#EXTINF:0,DE: RTL 2 HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/316.ts
-#EXTINF:0,DE: ProSieben HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/317.ts
-#EXTINF:0,DE: ProSieben Maxx HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/318.ts
-#EXTINF:0,DE: SAT.1 HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/319.ts
-#EXTINF:0,DE: VOX HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/320.ts
-#EXTINF:0,DE: DMAX HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/321.ts
-#EXTINF:0,DE: SIXX HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/322.ts
-#EXTINF:0,DE: Kabel Eins HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/323.ts
-#EXTINF:0,DE: RTL Nitro HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/324.ts
-#EXTINF:0,DE: RTL Passion FHD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/325.ts
-#EXTINF:0,DE: RTL Living HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/326.ts
+#EXTINF:-1,Coronavirus Channel
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/2
+#EXTINF:-1,HRT 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/3
+#EXTINF:-1,HRT 1 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/4
+#EXTINF:-1,HRT 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/5
+#EXTINF:-1,HRT 2 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/6
+#EXTINF:-1,HRT 3
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/7
+#EXTINF:-1,HRT 3 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/8
+#EXTINF:-1,HRT 4
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/9
+#EXTINF:-1,HRT 4 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/10
+#EXTINF:-1,HRT 5
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/11
+#EXTINF:-1,HRT 5 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/12
+#EXTINF:-1,Nova TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/13
+#EXTINF:-1,Nova TV HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/14
+#EXTINF:-1,RTL Televizija
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/15
+#EXTINF:-1,RTL Televizija HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/16
+#EXTINF:-1,RTL 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/17
+#EXTINF:-1,RTL Passion
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/18
+#EXTINF:-1,RTL Living
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/19
+#EXTINF:-1,RTL Crime
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/20
+#EXTINF:-1,RTL Kockica
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/22
+#EXTINF:-1,Doma TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/54708
+#EXTINF:-1,Doma TV HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/54709
+#EXTINF:-1,N1 HR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/25
+#EXTINF:-1,N1 HR HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/26
+#EXTINF:-1,OTV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/27
+#EXTINF:-1,Marija TV Medjugorje
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/28
+#EXTINF:-1,Narodna Televizija
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/29
+#EXTINF:-1,Laudato TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/30
+#EXTINF:-1,VTV Televizija
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/31
+#EXTINF:-1,Trend TV Karlovac
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/32
+#EXTINF:-1,Tv4r Karlovac
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/33
+#EXTINF:-1,Poljoprivredna TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/34
+#EXTINF:-1,KanalR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/36
+#EXTINF:-1,TV Sibenik
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/38
+#EXTINF:-1,TV Jadran
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/39
+#EXTINF:-1,TV Dubrovnik
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/40
+#EXTINF:-1,Libertas TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/44
+#EXTINF:-1,RTV Banovina
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/45
+#EXTINF:-1,Vinkovacka TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/46
+#EXTINF:-1,STV Slavonija
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/47
+#EXTINF:-1,Osijecka TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/48
+#EXTINF:-1,SBTV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/49
+#EXTINF:-1,Zdrava Televizija 7
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/50
+#EXTINF:-1,Z1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/51
+#EXTINF:-1,TV Nova
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/52
+#EXTINF:-1,Coronavirus Channel
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/58
+#EXTINF:-1,BHT 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/59
+#EXTINF:-1,BHT 1 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/60
+#EXTINF:-1,HAYAT
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/61
+#EXTINF:-1,HAYAT HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/62
+#EXTINF:-1,HAYAT Plus
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/63
+#EXTINF:-1,Nova BH
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/64
+#EXTINF:-1,Nova BH HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/65
+#EXTINF:-1,Federalna
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/66
+#EXTINF:-1,RTRS
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/67
+#EXTINF:-1,RTRS Plus
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/68
+#EXTINF:-1,TVSA
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/69
+#EXTINF:-1,O Kanal
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/70
+#EXTINF:-1,B1 Gradacac
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/71
+#EXTINF:-1,TV Glas Drine
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/72
+#EXTINF:-1,Face TV HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/73
+#EXTINF:-1,N1 BiH
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/74
+#EXTINF:-1,NTV IC Kakanj
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/75
+#EXTINF:-1,Televizija 5
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/78
+#EXTINF:-1,RTV Zenica
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/79
+#EXTINF:-1,Tatabrada TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/80
+#EXTINF:-1,Super TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/81
+#EXTINF:-1,RTV Sana
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/82
+#EXTINF:-1,Bosansko Posavska TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/83
+#EXTINF:-1,RTV Krajina
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/84
+#EXTINF:-1,Kanal 6 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/85
+#EXTINF:-1,Televizija K3
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/86
+#EXTINF:-1,RTV HIT Brcko
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/87
+#EXTINF:-1,City TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/88
+#EXTINF:-1,Alfa TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/89
+#EXTINF:-1,RTV USK
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/90
+#EXTINF:-1,RTV Slon
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/91
+#EXTINF:-1,RTVTK
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/92
+#EXTINF:-1,Posavina TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/93
+#EXTINF:-1,RTV Cazin
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/94
+#EXTINF:-1,RTV Podrinje
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/95
+#EXTINF:-1,Meka TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/96
+#EXTINF:-1,MTV Igman
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/97
+#EXTINF:-1,Izvorna TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/98
+#EXTINF:-1,RTV Herceg Bosne
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/99
+#EXTINF:-1,OBN HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/100
+#EXTINF:-1,OBN
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/101
+#EXTINF:-1,BN
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/102
+#EXTINF:-1,BN 2 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/103
+#EXTINF:-1,Al Jazeera Balkans
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/105
+#EXTINF:-1,Alternativna Televizija
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/106
+#EXTINF:-1,Coronavirus Channel
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/131
+#EXTINF:-1,RTS 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/132
+#EXTINF:-1,RTS 1 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/133
+#EXTINF:-1,RTS 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/134
+#EXTINF:-1,RTS 3
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/135
+#EXTINF:-1,RTS Kolo
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/136
+#EXTINF:-1,RTS Zivot
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/137
+#EXTINF:-1,RTS Trezor
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/138
+#EXTINF:-1,RTS Svet
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/139
+#EXTINF:-1,RTS Drama
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/140
+#EXTINF:-1,Prva FILES
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/142
+#EXTINF:-1,Prva TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/143
+#EXTINF:-1,Prva TV HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/144
+#EXTINF:-1,Prva LIFE
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/145
+#EXTINF:-1,Prva PLUS
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/146
+#EXTINF:-1,Prva MAX
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/147
+#EXTINF:-1,Prva KICK
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/148
+#EXTINF:-1,Prva WORLD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/149
+#EXTINF:-1,Sat TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/151
+#EXTINF:-1,Red TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/47120
+#EXTINF:-1,Kurir TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/51660
+#EXTINF:-1,Kladovo TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/153
+#EXTINF:-1,Jefimija HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/154
+#EXTINF:-1,TV Duga
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/155
+#EXTINF:-1,Agro TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/59907
+#EXTINF:-1,Studio B
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/156
+#EXTINF:-1,Sandzacka TV Mreza
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/157
+#EXTINF:-1,Sandzak TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/158
+#EXTINF:-1,RT Vojvodina
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/159
+#EXTINF:-1,RT Vojvodina 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/160
+#EXTINF:-1,N1 RS HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/161
+#EXTINF:-1,RTV Novi Pazar
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/162
+#EXTINF:-1,RTV Palma
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/163
+#EXTINF:-1,TV Hram
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/165
+#EXTINF:-1,Happy TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/166
+#EXTINF:-1,Nova Sport
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/65907
+#EXTINF:-1,Happy Parovi 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/167
+#EXTINF:-1,Happy Parovi 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/168
+#EXTINF:-1,Belle Amie
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/169
+#EXTINF:-1,b92
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/170
+#EXTINF:-1,Nova RS
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/171
+#EXTINF:-1,Nova S
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/172
+#EXTINF:-1,Nova S HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/173
+#EXTINF:-1,Aurora TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/174
+#EXTINF:-1,Coronavirus Channel
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/177
+#EXTINF:-1,RTCG 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/178
+#EXTINF:-1,RTCG 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/179
+#EXTINF:-1,RTCG sat
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/180
+#EXTINF:-1,Prva CG
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/181
+#EXTINF:-1,Nova M
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/183
+#EXTINF:-1,TV Vijesti
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/184
+#EXTINF:-1,Pink TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/186
+#EXTINF:-1,Pink 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/187
+#EXTINF:-1,Pink 3 Info
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/189
+#EXTINF:-1,Pink Show
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/190
+#EXTINF:-1,Pink Classic
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/191
+#EXTINF:-1,Pink Zabava
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/192
+#EXTINF:-1,Pink World Cinema
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/193
+#EXTINF:-1,Pink World
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/194
+#EXTINF:-1,Pink Western
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/195
+#EXTINF:-1,Pink Thriller
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/196
+#EXTINF:-1,Pink Soap
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/197
+#EXTINF:-1,Pink Serije
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/198
+#EXTINF:-1,Pink SciFi & Fantasy
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/199
+#EXTINF:-1,Pink Romance
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/200
+#EXTINF:-1,Pink Reality
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/201
+#EXTINF:-1,Pink Premium
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/202
+#EXTINF:-1,Pink Plus
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/203
+#EXTINF:-1,Pink Pedia
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/204
+#EXTINF:-1,Pink M
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/205
+#EXTINF:-1,Pink Music
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/206
+#EXTINF:-1,Pink Music 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/207
+#EXTINF:-1,Pink Movies
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/208
+#EXTINF:-1,Pink Kuvar
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/209
+#EXTINF:-1,Pink Koncert
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/210
+#EXTINF:-1,Pink Horror
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/211
+#EXTINF:-1,Pink Film
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/212
+#EXTINF:-1,Pink Extra
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/213
+#EXTINF:-1,Pink Crime & Mystery
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/214
+#EXTINF:-1,Pink Comedy
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/215
+#EXTINF:-1,Pink Action
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/216
+#EXTINF:-1,Pink & Roll
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/217
+#EXTINF:-1,Pink Style
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/218
+#EXTINF:-1,Pink LOL
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/219
+#EXTINF:-1,Pink Haha
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/220
+#EXTINF:-1,Pink Fashion
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/221
+#EXTINF:-1,Pink Media BiH
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/222
+#EXTINF:-1,Pink Family
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/223
+#EXTINF:-1,Pink Hits
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/224
+#EXTINF:-1,Pink Hits 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/225
+#EXTINF:-1,Pink Folk 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/226
+#EXTINF:-1,Pink Folk 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/227
+#EXTINF:-1,Pink Bravo
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/228
+#EXTINF:-1,Pink Zadruga 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/229
+#EXTINF:-1,Pink Zadruga 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/230
+#EXTINF:-1,Pink Zadruga 3
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/231
+#EXTINF:-1,Pink Zadruga 4
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/232
+#EXTINF:-1,Viasat Nature
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/234
+#EXTINF:-1,Viasat History
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/235
+#EXTINF:-1,Viasat Explore
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/236
+#EXTINF:-1,Travel Channel
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/237
+#EXTINF:-1,TLC
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/238
+#EXTINF:-1,National Geographic HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/240
+#EXTINF:-1,National Geographic
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/241
+#EXTINF:-1,Nat Geo WILD HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/242
+#EXTINF:-1,Lov i Ribolov
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/243
+#EXTINF:-1,Discovery ID
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/244
+#EXTINF:-1,History 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/51662
+#EXTINF:-1,History 2 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/245
+#EXTINF:-1,History Channel
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/246
+#EXTINF:-1,History Channel HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/247
+#EXTINF:-1,Food Network
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/248
+#EXTINF:-1,BBC Earth
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/249
+#EXTINF:-1,Discovery Channel
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/250
+#EXTINF:-1,DocuBox HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/251
+#EXTINF:-1,HGTV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/252
+#EXTINF:-1,DTX
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/253
+#EXTINF:-1,Discovery Science HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/254
+#EXTINF:-1,ID Xtra HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/255
+#EXTINF:-1,Da Vinci Learning
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/256
+#EXTINF:-1,E! Entertainment
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/257
+#EXTINF:-1,Ginx
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/258
+#EXTINF:-1,Doku TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/259
+#EXTINF:-1,Planet Earth
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/260
+#EXTINF:-1,Crime Investigation
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/261
+#EXTINF:-1,CBS Reality
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/262
+#EXTINF:-1,Animal Planet
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/263
+#EXTINF:-1,24 Kitchen HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/264
+#EXTINF:-1,HNTV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/267
+#EXTINF:-1,SOS Kanal
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/268
+#EXTINF:-1,Eurosport 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/269
+#EXTINF:-1,Eurosport 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/270
+#EXTINF:-1,Moja TV BH
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/271
+#EXTINF:-1,SPTV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/273
+#EXTINF:-1,Kreator TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/274
+#EXTINF:-1,Fight Channel HR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/285
+#EXTINF:-1,Arena Sport 1 BH
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/286
+#EXTINF:-1,Arena Sport 1 SR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/287
+#EXTINF:-1,Arena Sport 1 SR HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/288
+#EXTINF:-1,Arena Sport 2 SR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/289
+#EXTINF:-1,Arena Sport 2 SR HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/290
+#EXTINF:-1,Arena Sport 3 SR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/291
+#EXTINF:-1,Arena Sport 3 SR HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/292
+#EXTINF:-1,Arena Sport 4 SR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/293
+#EXTINF:-1,Arena Sport 5 SR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/294
+#EXTINF:-1,Arena Sport 4 SR HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/295
+#EXTINF:-1,Arena Sport 1 HR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/296
+#EXTINF:-1,Arena Sport 1 HR HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/297
+#EXTINF:-1,Arena Sport 2 HR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/298
+#EXTINF:-1,Arena Sport 2 HR HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/299
+#EXTINF:-1,Arena Sport 3 HR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/300
+#EXTINF:-1,Arena Sport 3 HR HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/301
+#EXTINF:-1,Arena Sport 4 HR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/302
+#EXTINF:-1,Arena Sport 4 HR HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/303
+#EXTINF:-1,Arena Sport 5 HR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/304
+#EXTINF:-1,Arena Sport 5 HR HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/305
+#EXTINF:-1,Arena Sport 6 HR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/306
+#EXTINF:-1,Sport Klub eSports
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/307
+#EXTINF:-1,Sport Klub Golf
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/308
+#EXTINF:-1,Sport Klub HD HR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/309
+#EXTINF:-1,Sport Klub 1 HR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/310
+#EXTINF:-1,Sport Klub 2 HR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/311
+#EXTINF:-1,Sport Klub 2 HR HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/312
+#EXTINF:-1,Sport Klub 3 HR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/313
+#EXTINF:-1,Sport Klub 3 HR HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/314
+#EXTINF:-1,Sport Klub 4 HR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/315
+#EXTINF:-1,Sport Klub 4 HR HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/316
+#EXTINF:-1,Sport Klub 5 HR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/317
+#EXTINF:-1,Sport Klub 6 HR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/318
+#EXTINF:-1,Sport Klub HD SR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/56429
+#EXTINF:-1,Sport Klub 1 SR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/56428
+#EXTINF:-1,Sport Klub 1 SR HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/319
+#EXTINF:-1,Sport Klub 2 SR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/320
+#EXTINF:-1,Sport Klub 2 SR HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/321
+#EXTINF:-1,Sport Klub 3 SR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/322
+#EXTINF:-1,Sport Klub 3 SR HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/323
+#EXTINF:-1,Sport Klub 4 SR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/324
+#EXTINF:-1,Sport Klub 4 SR HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/325
+#EXTINF:-1,Sport Klub 5 SR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/326
+#EXTINF:-1,Sport Klub 6 SR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/327
+#EXTINF:-1,Sport Klub 7 SR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/49942
+#EXTINF:-1,Sport Klub 8 SR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/49943
+#EXTINF:-1,Sport Klub 9 SR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/49944
+#EXTINF:-1,Sport Klub 10 SR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/49945
+#EXTINF:-1,Sport TV 1 HD |SL
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/328
+#EXTINF:-1,Sport TV 2 HD |SL
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/329
+#EXTINF:-1,Sport TV 3 HD |SL
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/330
+#EXTINF:-1,DE | Dazn BAR 1 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/332
+#EXTINF:-1,DE | Dazn BAR 2 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/333
+#EXTINF:-1,DE | Eurosport 1 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/334
+#EXTINF:-1,DE | Eurosport 2 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/335
+#EXTINF:-1,DE | Eurosport 2 Xtra
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/336
+#EXTINF:-1,DE | eSports1 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/337
+#EXTINF:-1,DE | Telekom 3. Bundesliga 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/338
+#EXTINF:-1,DE | Telekom 3. Bundesliga 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/339
+#EXTINF:-1,DE | Telekom 3. Bundesliga 3
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/340
+#EXTINF:-1,DE | Telekom 3. Bundesliga 4
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/341
+#EXTINF:-1,DE | Telekom 3. Bundesliga 5
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/342
+#EXTINF:-1,DE | Telekom 3. Bundesliga 6
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/343
+#EXTINF:-1,DE | Telekom Frauen Bundesliga
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/344
+#EXTINF:-1,PT | Eleven Sports 3
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/347
+#EXTINF:-1,PT | Eleven Sports 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/348
+#EXTINF:-1,PT | Eleven Sports 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/349
+#EXTINF:-1,BG | Max Sport 4
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/350
+#EXTINF:-1,BG | Max Sport 3
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/351
+#EXTINF:-1,BG | Max Sport 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/352
+#EXTINF:-1,BG | Max Sport 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/353
+#EXTINF:-1,IT | Rai Sport + HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/355
+#EXTINF:-1,IT | Eurosport 1 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/357
+#EXTINF:-1,IT | Eurosport 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/358
+#EXTINF:-1,IT | Super Tennis
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/359
+#EXTINF:-1,IT | Sport Italia HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/360
+#EXTINF:-1,PL | POLSAT Sport Premium 1 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/370
+#EXTINF:-1,PL | POLSAT Sport Premium 2 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/371
+#EXTINF:-1,PL | POLSAT Sport EXTRA
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/372
+#EXTINF:-1,PL | POLSAT Sport
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/373
+#EXTINF:-1,PL | Eurosport 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/374
+#EXTINF:-1,PL | Eurosport 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/375
+#EXTINF:-1,NL | Ziggo Sport Racing
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/376
+#EXTINF:-1,NL | Ziggo Sport Voetbal
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/377
+#EXTINF:-1,NL | Ziggo Sport Golf
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/378
+#EXTINF:-1,NL | Ziggo Sport Extra 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/379
+#EXTINF:-1,NL | Ziggo Sport Extra 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/380
+#EXTINF:-1,NL | Ziggo Sport Select HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/381
+#EXTINF:-1,NL | FOX Sports 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/382
+#EXTINF:-1,NL | FOX Sports 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/383
+#EXTINF:-1,NL | FOX Sports 3
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/384
+#EXTINF:-1,NL | FOX Sports 4
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/385
+#EXTINF:-1,NL | FOX Sports 5
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/386
+#EXTINF:-1,RO | Telekom Sport 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/388
+#EXTINF:-1,RO | Telekom Sport 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/389
+#EXTINF:-1,RO | Telekom Sport 3
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/390
+#EXTINF:-1,RO | Telekom Sport 4
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/391
+#EXTINF:-1,RO | Eurosport 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/392
+#EXTINF:-1,RO | Eurosport 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/393
+#EXTINF:-1,RO | Digi Sport 1 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/394
+#EXTINF:-1,RO | Digi Sport 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/395
+#EXTINF:-1,RO | Digi Sport 3
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/396
+#EXTINF:-1,RO | Digi Sport 4
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/397
+#EXTINF:-1,AL | K Sport 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/398
+#EXTINF:-1,AL | K Sport 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/399
+#EXTINF:-1,AL | Tring Sport 1 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/401
+#EXTINF:-1,AL | Tring Sport 2 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/402
+#EXTINF:-1,AL | Tring Sport 3 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/403
+#EXTINF:-1,AL | Tring Sport 4 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/404
+#EXTINF:-1,US | FOX Sports OHIO
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/59898
+#EXTINF:-1,US | FOX Sports OHIO plus
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/59899
+#EXTINF:-1,US | FOX Sportstime OHIO
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/59900
+#EXTINF:-1,US | NFL Network
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/405
+#EXTINF:-1,US | Willow Cricket
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/406
+#EXTINF:-1,US | NFL Channel HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/407
+#EXTINF:-1,US | UFC Fight Pass
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/408
+#EXTINF:-1,US | NHL
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/409
+#EXTINF:-1,US | NHL Network
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/410
+#EXTINF:-1,US | NFL Now
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/411
+#EXTINF:-1,US | NBA HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/412
+#EXTINF:-1,US | ESPN HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/413
+#EXTINF:-1,US | ESPN 2 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/414
+#EXTINF:-1,US | ESPN 3
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/415
+#EXTINF:-1,US | ESPN News HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/416
+#EXTINF:-1,US | ESPN U
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/417
+#EXTINF:-1,US | Fight Channel
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/418
+#EXTINF:-1,ES | Deportes 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/419
+#EXTINF:-1,ES | Deportes 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/420
+#EXTINF:-1,ES | La Liga
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/421
+#EXTINF:-1,ES | Real Madrid TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/422
+#EXTINF:-1,TR | TIVIBU Spor 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/423
+#EXTINF:-1,TR | TIVIBU Spor 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/424
+#EXTINF:-1,TR | Smart Spor 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/425
+#EXTINF:-1,TR | Smart Spor 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/426
+#EXTINF:-1,TR | beIN SPORTS 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/427
+#EXTINF:-1,TR | beIN SPORTS 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/429
+#EXTINF:-1,TR | beIN SPORTS 3
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/431
+#EXTINF:-1,TR | beIN SPORTS 4
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/433
+#EXTINF:-1,TR | beIN SPORTS Haber 
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/63116
+#EXTINF:-1,FR | beIN SPORT 1 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/438
+#EXTINF:-1,FR | beIN SPORT 3 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/439
+#EXTINF:-1,FR | beIN SPORT 2 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/440
+#EXTINF:-1,FR | beIN SPORT MAX 4
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/441
+#EXTINF:-1,FR | beIN SPORT MAX 5
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/442
+#EXTINF:-1,FR | beIN SPORT MAX 6
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/443
+#EXTINF:-1,FR | beIN SPORT MAX 7
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/444
+#EXTINF:-1,FR | beIN SPORT MAX 8
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/445
+#EXTINF:-1,SE | C More Live 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/49274
+#EXTINF:-1,SE | C More Live 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/49275
+#EXTINF:-1,SE | C More Live 3
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/49276
+#EXTINF:-1,SE | Viasat Sport
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/49272
+#EXTINF:-1,HBO
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/447
+#EXTINF:-1,HBO HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/448
+#EXTINF:-1,HBO 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/449
+#EXTINF:-1,HBO 2 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/450
+#EXTINF:-1,HBO 3
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/451
+#EXTINF:-1,HBO 3 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/452
+#EXTINF:-1,HBO GO
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/49948
+#EXTINF:-1,Fox
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/453
+#EXTINF:-1,Fox Movies
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/454
+#EXTINF:-1,Fox Life
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/455
+#EXTINF:-1,Fox Crime
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/456
+#EXTINF:-1,Kino TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/457
+#EXTINF:-1,Cinestar Fantasy
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/458
+#EXTINF:-1,Cinestar Comedy
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/49947
+#EXTINF:-1,CineStar Premiere 1 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/459
+#EXTINF:-1,CineStar Premiere 2 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/460
+#EXTINF:-1,CineStar Action TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/461
+#EXTINF:-1,Cinestar TV 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/462
+#EXTINF:-1,Comedy Central Extra UK
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/463
+#EXTINF:-1,Cinemax 1 SD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/464
+#EXTINF:-1,Cinemax 2 SD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/465
+#EXTINF:-1,Pickbox TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/466
+#EXTINF:-1,SCIFI
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/467
+#EXTINF:-1,AMC
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/468
+#EXTINF:-1,Cinemania
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/469
+#EXTINF:-1,TV 1000
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/471
+#EXTINF:-1,Klasik TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/472
+#EXTINF:-1,Superstar TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/473
+#EXTINF:-1,M1 Film
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/474
+#EXTINF:-1,Film Klub
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/475
+#EXTINF:-1,Cinestar TV 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/476
+#EXTINF:-1,Diva
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/477
+#EXTINF:-1,AXN Spin
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/478
+#EXTINF:-1,AXN Adria
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/479
+#EXTINF:-1,Epic Drama
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/480
+#EXTINF:-1,Grand TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/497
+#EXTINF:-1,Grand TV 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/498
+#EXTINF:-1,DM SAT
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/499
+#EXTINF:-1,BN Music
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/500
+#EXTINF:-1,Balkanika TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/501
+#EXTINF:-1,Mezzo
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/503
+#EXTINF:-1,Vitezovo
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/505
+#EXTINF:-1,Sevdah TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/506
+#EXTINF:-1,Jugoton
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/507
+#EXTINF:-1,DMC
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/508
+#EXTINF:-1,CMC
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/509
+#EXTINF:-1,Narodni TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/510
+#EXTINF:-1,YU Planet TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/511
+#EXTINF:-1,IDJ Videos
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/512
+#EXTINF:-1,Hayat FOLK
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/513
+#EXTINF:-1,TV Sehara HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/514
+#EXTINF:-1,KCN 1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/515
+#EXTINF:-1,KCN 2
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/516
+#EXTINF:-1,KCN 3
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/517
+#EXTINF:-1,VH1
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/518
+#EXTINF:-1,Capital TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/519
+#EXTINF:-1,Krone HIT HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/520
+#EXTINF:-1,XITE HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/521
+#EXTINF:-1,TOP Sound
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/522
+#EXTINF:-1,MTV 80s
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/523
+#EXTINF:-1,City Music
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/524
+#EXTINF:-1,Roma TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/525
+#EXTINF:-1,OTV Valentino
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/526
+#EXTINF:-1,Hayat MUSIC
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/527
+#EXTINF:-1,Pink Folk 1 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/528
+#EXTINF:-1,Pink Folk 2 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/529
+#EXTINF:-1,Pink Music 1 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/530
+#EXTINF:-1,Pink Music 2 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/531
+#EXTINF:-1,Pink Hits 1 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/532
+#EXTINF:-1,Pink Hits 2 HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/533
+#EXTINF:-1,First Music
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/535
+#EXTINF:-1,Nick Music
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/536
+#EXTINF:-1,Polsat Music
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/537
+#EXTINF:-1,M6 Music
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/538
+#EXTINF:-1,VOX Music
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/539
+#EXTINF:-1,Deluxe Music
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/540
+#EXTINF:-1,RTSH Music
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/543
+#EXTINF:-1,Bravo Music
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/544
+#EXTINF:-1,MTV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/545
+#EXTINF:-1,MTV Rock
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/546
+#EXTINF:-1,MTV Music
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/547
+#EXTINF:-1,MTV Hits
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/548
+#EXTINF:-1,MTV Club
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/549
+#EXTINF:-1,MTV Classic
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/550
+#EXTINF:-1,MTV Base
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/551
+#EXTINF:-1,Music Now
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/552
+#EXTINF:-1,Radio 105 TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/553
+#EXTINF:-1,Baby TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/555
+#EXTINF:-1,Masa i Medvjed
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/556
+#EXTINF:-1,Hayatovci HD
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/557
+#EXTINF:-1,Hayatovci
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/558
+#EXTINF:-1,Balkan Kids
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/559
+#EXTINF:-1,Disney Channel
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/560
+#EXTINF:-1,Tom & Jerry TV
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/561
+#EXTINF:-1,Nick Junior |UK
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/562
+#EXTINF:-1,Cartoon Network
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/563
+#EXTINF:-1,Nicktoons |HR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/564
+#EXTINF:-1,Pink Super Kids
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/565
+#EXTINF:-1,Pink Kids
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/566
+#EXTINF:-1,Vavoom
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/567
+#EXTINF:-1,Nickelodeon |HR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/568
+#EXTINF:-1,Nickelodeon |SR
+http://balkanshark.net:25461/videotek@kolekcije/tr529lOQxB/62308
+#EXTINF:-1,Nick Junior |SR
 #EXTINF:0,DE: Sky Cinema Action HD
 #EXTVLCOPT:network-caching=1000
 http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/327.ts
@@ -669,87 +1500,6 @@ http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/397.ts
 #EXTINF:0,DE: Disney Channel HD
 #EXTVLCOPT:network-caching=1000
 http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/398.ts
-#EXTINF:0,ADULT 8 HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/492.ts
-#EXTINF:0,ADULT 9 HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/491.ts
-#EXTINF:0,EROXXX
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/493.ts
-#EXTINF:0,ADULT 1 HD 
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/497.ts
-#EXTINF:0,ADULT 2 HD 
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/498.ts
-#EXTINF:0,ADULT 4 HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/500.ts
-#EXTINF:0,ADULT 3 HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/499.ts
-#EXTINF:0,ADULT 5 HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/501.ts
-#EXTINF:0,Hustler HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/502.ts
-#EXTINF:0,ADULT 6 HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/503.ts
-#EXTINF:0,ADULT 7 HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/504.ts
-#EXTINF:0,BRAZZERS
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/505.ts
-#EXTINF:0,DORCEL
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/506.ts
-#EXTINF:0,Redlight HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/507.ts
-#EXTINF:0,DE: Kabel Eins Classics
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/1882.ts
-#EXTINF:0,DE: Kinowelt HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/1883.ts
-#EXTINF:0,DE: RTL Crime HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/1884.ts
-#EXTINF:0,DE: SAT.1 emotions
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/1885.ts
-#EXTINF:0,DE: BR HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/2465.ts
-#EXTINF:0,DE: Auto Motor Sport
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/3049.ts
-#EXTINF:0,DE: OE24.TV Nachrichten
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/5531.ts
-#EXTINF:0,[LIVE] Info Channel Corona
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/13454.ts
-#EXTINF:0,Ex-Yu: TOM & JERRY CHANNEL
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/14801.ts
-#EXTINF:0,DE: Puls 24
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/17974.ts
-#EXTINF:0,HU: AMC
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18192.ts
-#EXTINF:0,HU: ATV
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18193.ts
-#EXTINF:0,HU: AXN Black
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18194.ts
 #EXTINF:0,HU: AXN
 #EXTVLCOPT:network-caching=1000
 http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18195.ts
@@ -837,54 +1587,6 @@ http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18222.ts
 #EXTINF:0,HU: Sport 1
 #EXTVLCOPT:network-caching=1000
 http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18223.ts
-#EXTINF:0,HU: TV2
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18224.ts
-#EXTINF:0,HU: TV2 HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18225.ts
-#EXTINF:0,HU: Viasat 3
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18226.ts
-#EXTINF:0,HU: Viasat 6
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18227.ts
-#EXTINF:0,HU: M1 Hungary
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18228.ts
-#EXTINF:0,HU: M2
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18229.ts
-#EXTINF:0,HU: M4 Sport HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18230.ts
-#EXTINF:0,HU: M5 HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18231.ts
-#EXTINF:0,HU: Spiler TV
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18232.ts
-#EXTINF:0,HU: DaVinci Learning
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18233.ts
-#EXTINF:0,HU: DIGI WORLD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18234.ts
-#EXTINF:0,HU: Discovery Science
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18235.ts
-#EXTINF:0,HU: Discovery World
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18236.ts
-#EXTINF:0,HU: Disney Channel
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18237.ts
-#EXTINF:0,HU: Duck TV
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18238.ts
-#EXTINF:0,HU: Duna World HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18239.ts
 #EXTINF:0,HU: EUROSPORT 2
 #EXTVLCOPT:network-caching=1000
 http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18240.ts
@@ -912,54 +1614,6 @@ http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18247.ts
 #EXTINF:0,HU: ID Xtra
 #EXTVLCOPT:network-caching=1000
 http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18248.ts
-#EXTINF:0,HU: Izaura TV
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18249.ts
-#EXTINF:0,HU: JimJam
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18250.ts
-#EXTINF:0,HU: Minimax
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18251.ts
-#EXTINF:0,HU: Muzsika TV
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18252.ts
-#EXTINF:0,HU: Nat Geo HD
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18253.ts
-#EXTINF:0,HU: Nickelodeon
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18254.ts
-#EXTINF:0,HU: Prime
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18255.ts
-#EXTINF:0,HU: RTL 2
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18256.ts
-#EXTINF:0,HU: RTL Spike
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18257.ts
-#EXTINF:0,HU: Slager TV
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18258.ts
-#EXTINF:0,HU: Spektrum
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18259.ts
-#EXTINF:0,HU: Spektrum Home
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18260.ts
-#EXTINF:0,HU: Story 4
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18261.ts
-#EXTINF:0,HU: Super TV2
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18262.ts
-#EXTINF:0,HU: Travel Channel
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18263.ts
-#EXTINF:0,HU: TV Paprika
-#EXTVLCOPT:network-caching=1000
-http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18264.ts
 #EXTINF:0,HU: Viasat History
 #EXTVLCOPT:network-caching=1000
 http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18265.ts
