@@ -1,0 +1,1163 @@
+#EXTM3U
+
+#EXTINF:0,BHT 1 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/4.ts
+#EXTINF:0,Federalna TV
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/5.ts
+#EXTINF:0,Face TV
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/6.ts
+#EXTINF:0,Hayat HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/7.ts
+#EXTINF:0,Hayat Plus
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/8.ts
+#EXTINF:0,Nova BH
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/9.ts
+#EXTINF:0,Nova BH HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/10.ts
+#EXTINF:0,OBN
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/11.ts
+#EXTINF:0,TV TK
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/13.ts
+#EXTINF:0,O Kanal
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/14.ts
+#EXTINF:0,BN TV
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/15.ts
+#EXTINF:0,RTV USK
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/17.ts
+#EXTINF:0,N1 BH
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18.ts
+#EXTINF:0,Al Jazeera 
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/19.ts
+#EXTINF:0,Super TV HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/20.ts
+#EXTINF:0,TV SARAJEVO
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/21.ts
+#EXTINF:0,TV ZENICA
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/22.ts
+#EXTINF:0,ALFA TV
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/23.ts
+#EXTINF:0,ATV
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/24.ts
+#EXTINF:0,RTRS
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/25.ts
+#EXTINF:0,RTRS Plus
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/26.ts
+#EXTINF:0,MTV IGMAN
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/27.ts
+#EXTINF:0,HIT BRCKO
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/28.ts
+#EXTINF:0,City Tv Mostar
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/29.ts
+#EXTINF:0,TV 5 ISLAM
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/30.ts
+#EXTINF:0,Kanal 6 Zenica
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/31.ts
+#EXTINF:0,HEMA TV
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/32.ts
+#EXTINF:0,Mekka TV
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/33.ts
+#EXTINF:0,B1 HD Gradacac
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/36.ts
+#EXTINF:0,RTV Podrinje (test)
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/39.ts
+#EXTINF:0,HRT 1
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/41.ts
+#EXTINF:0,HRT 2
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/43.ts
+#EXTINF:0,HRT 3
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/44.ts
+#EXTINF:0,HRT 4
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/45.ts
+#EXTINF:0,HRT Int.
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/46.ts
+#EXTINF:0,NOVA TV HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/47.ts
+#EXTINF:0,Doma TV HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/49.ts
+#EXTINF:0,RTL
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/50.ts
+#EXTINF:0,RTL 2
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/52.ts
+#EXTINF:0,RTL CRIME
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/53.ts
+#EXTINF:0,RTL PASSION
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/54.ts
+#EXTINF:0,RTL LIVING HR
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/55.ts
+#EXTINF:0,OSJECKA TV
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/58.ts
+#EXTINF:0,Z1
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/59.ts
+#EXTINF:0,N1 HR
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/60.ts
+#EXTINF:0,TV Banovina
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/61.ts
+#EXTINF:0,Vinkovacka TV
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/62.ts
+#EXTINF:0,RTS HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/64.ts
+#EXTINF:0,RTS 1
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/65.ts
+#EXTINF:0,RTS 2
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/66.ts
+#EXTINF:0,RTS 3
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/67.ts
+#EXTINF:0,B 92
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/69.ts
+#EXTINF:0,NOVI PAZAR
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/70.ts
+#EXTINF:0,Studio B
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/71.ts
+#EXTINF:0,NOVA S
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/72.ts
+#EXTINF:0,N1 SRB
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/74.ts
+#EXTINF:0,Prva Plus
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/76.ts
+#EXTINF:0,Prva Tv
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/75.ts
+#EXTINF:0,PRVA WORLD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/77.ts
+#EXTINF:0,Prva MAX
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/78.ts
+#EXTINF:0,PRVA KICK
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/79.ts
+#EXTINF:0,Happy TV
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/82.ts
+#EXTINF:0,Parovi 1
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/83.ts
+#EXTINF:0,DUGA TV
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/84.ts
+#EXTINF:0,Ex-Yu: CINEMAX 1 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/90.ts
+#EXTINF:0,Ex-Yu: CINEMAX 2 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/91.ts
+#EXTINF:0,Ex-Yu: CINESTAR TV PREMIERE 1
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/92.ts
+#EXTINF:0,Ex-Yu: CINESTAR TV PREMIERE 2
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/93.ts
+#EXTINF:0,Ex-Yu: CINESTAR TV 1
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/94.ts
+#EXTINF:0,Ex-Yu: CINESTAR ACTION
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/95.ts
+#EXTINF:0,Ex-Yu: Cinestar Fantasy
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/96.ts
+#EXTINF:0,Ex-Yu: FilmBox Extra
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/101.ts
+#EXTINF:0,Ex-Yu: Epic Drama
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/102.ts
+#EXTINF:0,Ex-Yu: DIVA
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/103.ts
+#EXTINF:0,Ex-Yu: COMEDY CENTRAL EXTRA
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/104.ts
+#EXTINF:0,Ex-Yu: AXN Adria
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/105.ts
+#EXTINF:0,Ex-Yu: M1 FILM
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/106.ts
+#EXTINF:0,Ex-Yu: TV 1000
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/107.ts
+#EXTINF:0,Ex-Yu: KLASIK TV
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/108.ts
+#EXTINF:0,Ex-Yu: Discovery Channel
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/122.ts
+#EXTINF:0,Ex-Yu: History Channel HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/123.ts
+#EXTINF:0,Ex-Yu: History Channel 2
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/124.ts
+#EXTINF:0,Ex-Yu: NAT GEO WILD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/125.ts
+#EXTINF:0,DE: DAZN 2 Bar HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/219.ts
+#EXTINF:0,DE: DAZN 1 Bar HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/218.ts
+#EXTINF:0,DE: Sky Sport Austria 1
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/217.ts
+#EXTINF:0,DE: Sky Sport News HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/216.ts
+#EXTINF:0,Ex-Yu: Fight Channel
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/215.ts
+#EXTINF:0,Ex-Yu: Eurosport 2
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/214.ts
+#EXTINF:0,Ex-Yu: Eurosport 1
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/213.ts
+#EXTINF:0,Ex-Yu: CRIME & INVESTIGATION
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/126.ts
+#EXTINF:0,Ex-Yu: ANIMAL PLANET EXYU
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/127.ts
+#EXTINF:0,Ex-Yu: E! Entertaiment
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/129.ts
+#EXTINF:0,Ex-Yu: TLC
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/130.ts
+#EXTINF:0,Ex-Yu: 24 KITCHEN
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/131.ts
+#EXTINF:0,Ex-Yu: TRAVEL CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/132.ts
+#EXTINF:0,Ex-Yu: Lov i Ribolov
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/133.ts
+#EXTINF:0,Ex-Yu: Viasat Explorer
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/134.ts
+#EXTINF:0,Ex-Yu: Viasat Nature
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/135.ts
+#EXTINF:0,Ex-Yu: Viasat History
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/136.ts
+#EXTINF:0,Ex-Yu: MINIMAX
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/153.ts
+#EXTINF:0,Ex-Yu: HAYATOVCI
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/154.ts
+#EXTINF:0,Ex-Yu: NICKELODEON
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/155.ts
+#EXTINF:0,Ex-Yu: Rtl Kockica
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/156.ts
+#EXTINF:0,Ex-Yu: NICK JUNIOR
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/157.ts
+#EXTINF:0,Ex-Yu: BABY TV
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/158.ts
+#EXTINF:0,Ex-Yu: MASA I MEDO
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/159.ts
+#EXTINF:0,Ex-Yu: TOM AND JERY
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/161.ts
+#EXTINF:0,EX-YU: PINK
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/163.ts
+#EXTINF:0,EX-YU: Red Tv
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/164.ts
+#EXTINF:0,EX-YU: PINK VESTI
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/165.ts
+#EXTINF:0,Ex-Yu: ZADRUGA  LIVE 2
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/166.ts
+#EXTINF:0,Ex-Yu: Pink Montenegro
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/168.ts
+#EXTINF:0,Ex-Yu: Pink BH
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/167.ts
+#EXTINF:0,EX-YU: PINK PLUS
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/169.ts
+#EXTINF:0,EX-YU: PINK FILM
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/171.ts
+#EXTINF:0,Ex-Yu: Pink Extra
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/170.ts
+#EXTINF:0,EX-YU: PINK ACTION
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/172.ts
+#EXTINF:0,EX-YU: PINK PREMIUM
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/173.ts
+#EXTINF:0,EX-YU: PINK MOVIES
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/174.ts
+#EXTINF:0,EX-YU: PINK HORROR
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/175.ts
+#EXTINF:0,EX-YU: PINK WESTERN
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/176.ts
+#EXTINF:0,EX-YU: PINK ROMANCE
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/177.ts
+#EXTINF:0,Ex-Yu: Pink Serije
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/179.ts
+#EXTINF:0,Ex-Yu: Pink Thriller
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/178.ts
+#EXTINF:0,Ex-Yu: Pink Koncert
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/180.ts
+#EXTINF:0,EX-YU: PINK KUVAR
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/181.ts
+#EXTINF:0,EX-YU: PINK FOLK 1
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/182.ts
+#EXTINF:0,EX-YU: PINK FOLK 2
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/183.ts
+#EXTINF:0,Ex-Yu: Pink Soap
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/184.ts
+#EXTINF:0,EX-YU: PINK ZABAVA
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/185.ts
+#EXTINF:0,Ex-Yu: MOJA TV BHT PREMIJER LIGA
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/187.ts
+#EXTINF:0,Ex-Yu: SPORT KLUB HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/188.ts
+#EXTINF:0,Ex-Yu: SPORT KLUB 1 SR
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/195.ts
+#EXTINF:0,Ex-Yu: SPORT KLUB 2 SR
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/196.ts
+#EXTINF:0,Ex-Yu: SPORT KLUB 3 SR
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/197.ts
+#EXTINF:0,Ex-Yu: Arena Sport 1 HD HR
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/198.ts
+#EXTINF:0,Ex-Yu: Arena Sport 2 HD HR
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/199.ts
+#EXTINF:0,Ex-Yu: Arena Sport 1 Srb
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/203.ts
+#EXTINF:0,DE: Eurosport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/239.ts
+#EXTINF:0,DE: Eurosport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/240.ts
+#EXTINF:0,DE: Eurosport 2 HD Xtra
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/241.ts
+#EXTINF:0,DE: SPORT1 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/243.ts
+#EXTINF:0,AT: ORF SPORT+ HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/245.ts
+#EXTINF:0,UK: BT SPORT 1
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/246.ts
+#EXTINF:0,UK: BT SPORT 2
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/247.ts
+#EXTINF:0,UK: BT SPORT 3
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/248.ts
+#EXTINF:0,UK: Sky Sports Mix
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/251.ts
+#EXTINF:0,UK: Sky Sports Premier League HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/252.ts
+#EXTINF:0,UFC FightPass
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/2467.ts
+#EXTINF:0,UK: Sky Sports Main Event HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/253.ts
+#EXTINF:0,UK: BT Sports ESPN HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/258.ts
+#EXTINF:0,PT: SPORT TV 1 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/263.ts
+#EXTINF:0,PT: SPORT TV 2 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/264.ts
+#EXTINF:0,PT: SPORT TV 3 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/265.ts
+#EXTINF:0,PT: SPORT TV 4 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/266.ts
+#EXTINF:0,PT: SPORT TV 5 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/267.ts
+#EXTINF:0,FR: RMC SPORT 1 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/269.ts
+#EXTINF:0,FR: RMC SPORT 2 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/270.ts
+#EXTINF:0,FR: RMC SPORT 3 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/271.ts
+#EXTINF:0,FR: BeIN Sports 1 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/272.ts
+#EXTINF:0,FR: BeIN Sports 3 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/274.ts
+#EXTINF:0,FR: BeIN Sports 2 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/273.ts
+#EXTINF:0,NL: ESPN 1
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/282.ts
+#EXTINF:0,NL: ESPN 2
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/283.ts
+#EXTINF:0,NL: ESPN 3
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/284.ts
+#EXTINF:0,NL: ESPN 4
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/285.ts
+#EXTINF:0,NL: ESPN 5
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/286.ts
+#EXTINF:0,NL: ESPN 6
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/287.ts
+#EXTINF:0,NL: Ziggo Sport Voetbal
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/288.ts
+#EXTINF:0,NL: Ziggo Sport Racing
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/292.ts
+#EXTINF:0,DE: Das Erste HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/306.ts
+#EXTINF:0,DE: ZDF HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/307.ts
+#EXTINF:0,AT: ORF 1 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/308.ts
+#EXTINF:0,AT: ORF 2 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/309.ts
+#EXTINF:0,AT: ORF 3 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/310.ts
+#EXTINF:0,DE: ATV HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/312.ts
+#EXTINF:0,DE: ATV 2
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/313.ts
+#EXTINF:0,DE: Puls 4
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/314.ts
+#EXTINF:0,DE: RTL HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/315.ts
+#EXTINF:0,DE: RTL 2 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/316.ts
+#EXTINF:0,DE: ProSieben HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/317.ts
+#EXTINF:0,DE: ProSieben Maxx HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/318.ts
+#EXTINF:0,DE: SAT.1 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/319.ts
+#EXTINF:0,DE: VOX HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/320.ts
+#EXTINF:0,DE: DMAX HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/321.ts
+#EXTINF:0,DE: SIXX HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/322.ts
+#EXTINF:0,DE: Kabel Eins HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/323.ts
+#EXTINF:0,DE: RTL Nitro HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/324.ts
+#EXTINF:0,DE: RTL Passion FHD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/325.ts
+#EXTINF:0,DE: RTL Living HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/326.ts
+#EXTINF:0,DE: Sky Cinema Action HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/327.ts
+#EXTINF:0,DE: Sky Cinema Premieren HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/328.ts
+#EXTINF:0,DE: Sky Cinema Thriller HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/329.ts
+#EXTINF:0,DE: Sky Cinema Premieren + 24 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/330.ts
+#EXTINF:0,DE: Sky Cinema Best OF HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/331.ts
+#EXTINF:0,DE: Sky Cinema Fun
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/332.ts
+#EXTINF:0,DE: Sky Cinema Family HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/333.ts
+#EXTINF:0,DE: Sky Cinema Classics
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/335.ts
+#EXTINF:0,DE: Sky Atlantic HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/367.ts
+#EXTINF:0,DE: Fox HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/368.ts
+#EXTINF:0,DE: Sky One HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/369.ts
+#EXTINF:0,DE: TLC
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/370.ts
+#EXTINF:0,DE: 13th Street HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/371.ts
+#EXTINF:0,DE: Universal HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/374.ts
+#EXTINF:0,DE: SYFY HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/375.ts
+#EXTINF:0,DE: Sony AXN HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/377.ts
+#EXTINF:0,DE: TNT Comedy HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/379.ts
+#EXTINF:0,DE: TNT Film HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/378.ts
+#EXTINF:0,DE: TNT Serie HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/380.ts
+#EXTINF:0,DE: History HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/383.ts
+#EXTINF:0,DE: NatGeo Wild HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/384.ts
+#EXTINF:0,DE: Discovery Channel HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/385.ts
+#EXTINF:0,DE: N-TV HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/386.ts
+#EXTINF:0,DE: N24 Doku
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/388.ts
+#EXTINF:0,DE: Phoenix
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/389.ts
+#EXTINF:0,DE: Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/391.ts
+#EXTINF:0,DE: SUPER RTL HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/392.ts
+#EXTINF:0,DE: TOGGO plus
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/393.ts
+#EXTINF:0,DE: Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/394.ts
+#EXTINF:0,DE: Kika HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/395.ts
+#EXTINF:0,DE: Sky Cinema Special HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/397.ts
+#EXTINF:0,DE: Disney Channel HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/398.ts
+#EXTINF:0,ADULT 8 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/492.ts
+#EXTINF:0,ADULT 9 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/491.ts
+#EXTINF:0,EROXXX
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/493.ts
+#EXTINF:0,ADULT 1 HD 
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/497.ts
+#EXTINF:0,ADULT 2 HD 
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/498.ts
+#EXTINF:0,ADULT 4 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/500.ts
+#EXTINF:0,ADULT 3 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/499.ts
+#EXTINF:0,ADULT 5 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/501.ts
+#EXTINF:0,Hustler HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/502.ts
+#EXTINF:0,ADULT 6 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/503.ts
+#EXTINF:0,ADULT 7 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/504.ts
+#EXTINF:0,BRAZZERS
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/505.ts
+#EXTINF:0,DORCEL
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/506.ts
+#EXTINF:0,Redlight HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/507.ts
+#EXTINF:0,DE: Kabel Eins Classics
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/1882.ts
+#EXTINF:0,DE: Kinowelt HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/1883.ts
+#EXTINF:0,DE: RTL Crime HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/1884.ts
+#EXTINF:0,DE: SAT.1 emotions
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/1885.ts
+#EXTINF:0,DE: BR HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/2465.ts
+#EXTINF:0,DE: Auto Motor Sport
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/3049.ts
+#EXTINF:0,DE: OE24.TV Nachrichten
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/5531.ts
+#EXTINF:0,[LIVE] Info Channel Corona
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/13454.ts
+#EXTINF:0,Ex-Yu: TOM & JERRY CHANNEL
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/14801.ts
+#EXTINF:0,DE: Puls 24
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/17974.ts
+#EXTINF:0,HU: AMC
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18192.ts
+#EXTINF:0,HU: ATV
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18193.ts
+#EXTINF:0,HU: AXN Black
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18194.ts
+#EXTINF:0,HU: AXN
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18195.ts
+#EXTINF:0,HU: AXN White
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18196.ts
+#EXTINF:0,HU: Animal Planet
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18197.ts
+#EXTINF:0,HU: Boomerang
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18198.ts
+#EXTINF:0,HU: CBS Reality
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18199.ts
+#EXTINF:0,HU: Cartoon Network
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18200.ts
+#EXTINF:0,HU: Cinemax 1
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18201.ts
+#EXTINF:0,HU: Comedy Central
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18202.ts
+#EXTINF:0,HU: Cool
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18203.ts
+#EXTINF:0,HU: Digi Sport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18204.ts
+#EXTINF:0,HU: DIGI Sport 1
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18205.ts
+#EXTINF:0,HU: DIGI Sport 2
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18206.ts
+#EXTINF:0,HU: DIGI Sport 3
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18207.ts
+#EXTINF:0,HU: Duna HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18208.ts
+#EXTINF:0,HU: EuroSport
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18209.ts
+#EXTINF:0,HU: Extreme Sports
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18210.ts
+#EXTINF:0,HU: FEM3
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18211.ts
+#EXTINF:0,HU: Film +
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18212.ts
+#EXTINF:0,HU: FilmBox Family
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18213.ts
+#EXTINF:0,HU: Filmbox Plus
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18214.ts
+#EXTINF:0,HU: FilmBox Premium
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18215.ts
+#EXTINF:0,HU: HBO 2
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18216.ts
+#EXTINF:0,HU: Light Channel
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18217.ts
+#EXTINF:0,HU: RTL
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18218.ts
+#EXTINF:0,HU: RTL Klub HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18219.ts
+#EXTINF:0,HU: RTL Klub
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18220.ts
+#EXTINF:0,HU: Sport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18221.ts
+#EXTINF:0,HU: Sport 2
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18222.ts
+#EXTINF:0,HU: Sport 1
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18223.ts
+#EXTINF:0,HU: TV2
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18224.ts
+#EXTINF:0,HU: TV2 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18225.ts
+#EXTINF:0,HU: Viasat 3
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18226.ts
+#EXTINF:0,HU: Viasat 6
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18227.ts
+#EXTINF:0,HU: M1 Hungary
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18228.ts
+#EXTINF:0,HU: M2
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18229.ts
+#EXTINF:0,HU: M4 Sport HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18230.ts
+#EXTINF:0,HU: M5 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18231.ts
+#EXTINF:0,HU: Spiler TV
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18232.ts
+#EXTINF:0,HU: DaVinci Learning
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18233.ts
+#EXTINF:0,HU: DIGI WORLD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18234.ts
+#EXTINF:0,HU: Discovery Science
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18235.ts
+#EXTINF:0,HU: Discovery World
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18236.ts
+#EXTINF:0,HU: Disney Channel
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18237.ts
+#EXTINF:0,HU: Duck TV
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18238.ts
+#EXTINF:0,HU: Duna World HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18239.ts
+#EXTINF:0,HU: EUROSPORT 2
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18240.ts
+#EXTINF:0,HU: FilmCafe
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18241.ts
+#EXTINF:0,HU: FISHING AND HUNTING
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18242.ts
+#EXTINF:0,HU: Food Network
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18243.ts
+#EXTINF:0,HU: Galaxy
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18244.ts
+#EXTINF:0,HU: HBO 1
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18245.ts
+#EXTINF:0,HU: Hir TV
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18246.ts
+#EXTINF:0,HU: History
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18247.ts
+#EXTINF:0,HU: ID Xtra
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18248.ts
+#EXTINF:0,HU: Izaura TV
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18249.ts
+#EXTINF:0,HU: JimJam
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18250.ts
+#EXTINF:0,HU: Minimax
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18251.ts
+#EXTINF:0,HU: Muzsika TV
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18252.ts
+#EXTINF:0,HU: Nat Geo HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18253.ts
+#EXTINF:0,HU: Nickelodeon
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18254.ts
+#EXTINF:0,HU: Prime
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18255.ts
+#EXTINF:0,HU: RTL 2
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18256.ts
+#EXTINF:0,HU: RTL Spike
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18257.ts
+#EXTINF:0,HU: Slager TV
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18258.ts
+#EXTINF:0,HU: Spektrum
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18259.ts
+#EXTINF:0,HU: Spektrum Home
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18260.ts
+#EXTINF:0,HU: Story 4
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18261.ts
+#EXTINF:0,HU: Super TV2
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18262.ts
+#EXTINF:0,HU: Travel Channel
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18263.ts
+#EXTINF:0,HU: TV Paprika
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18264.ts
+#EXTINF:0,HU: Viasat History
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18265.ts
+#EXTINF:0,HU: Nat Geo Wild HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18266.ts
+#EXTINF:0,HU: Paramount Channel
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18267.ts
+#EXTINF:0,NL | NPO 1 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18561.ts
+#EXTINF:0,NL | NPO 2 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18560.ts
+#EXTINF:0,NL | NPO 3 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18559.ts
+#EXTINF:0,NL | RTL 4 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18558.ts
+#EXTINF:0,NL | RTL 5 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18557.ts
+#EXTINF:0,NL | RTL 7 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18555.ts
+#EXTINF:0,NL | RTL 8 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18552.ts
+#EXTINF:0,NL | SBS 6 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18556.ts
+#EXTINF:0,NL | SBS 9 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18553.ts
+#EXTINF:0,NL | RTL Z HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18549.ts
+#EXTINF:0,NL | RTL Crime HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18550.ts
+#EXTINF:0,NL | RTL Lounge HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18551.ts
+#EXTINF:0,NL | Net5 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18554.ts
+#EXTINF:0,NL | NPO Politiek/Sport
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18545.ts
+#EXTINF:0,NL | NPO Nieuws HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18546.ts
+#EXTINF:0,NL | NPO 1 Extra
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18547.ts
+#EXTINF:0,NL | ONS HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18548.ts
+#EXTINF:0,NL | Slam!
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18501.ts
+#EXTINF:0,NL | 538 TV HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18502.ts
+#EXTINF:0,NL | Dance Trippin HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18503.ts
+#EXTINF:0,NL | Xite HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18504.ts
+#EXTINF:0,NL | Vh1 Classic
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18505.ts
+#EXTINF:0,NL | MTV Brand New HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18506.ts
+#EXTINF:0,NL | MTV Music 24 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18507.ts
+#EXTINF:0,NL | MTV HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18508.ts
+#EXTINF:0,NL | E! Entertainment HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18511.ts
+#EXTINF:0,NL | TLC HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18512.ts
+#EXTINF:0,NL | CBS Reality HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18513.ts
+#EXTINF:0,NL | Spike HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18514.ts
+#EXTINF:0,NL | Crime & Investigation HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18517.ts
+#EXTINF:0,NL | Discovery HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18519.ts
+#EXTINF:0,NL | History HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18520.ts
+#EXTINF:0,NL | Animal Planet HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18521.ts
+#EXTINF:0,NL | National Geographic Wild HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18522.ts
+#EXTINF:0,NL | National Geographic HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18523.ts
+#EXTINF:0,NL | Comedy Central extra HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18525.ts
+#EXTINF:0,NL | Fox HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18527.ts
+#EXTINF:0,NL | Film1 Family HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18528.ts
+#EXTINF:0,NL | Film1 Drama HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18529.ts
+#EXTINF:0,NL | Film1 Action HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18530.ts
+#EXTINF:0,NL | Film1 Premiere HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18531.ts
+#EXTINF:0,NL | Baby TV
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18533.ts
+#EXTINF:0,NL | Pebble TV HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18534.ts
+#EXTINF:0,NL | RTL Telekids HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18535.ts
+#EXTINF:0,NL | Boomerang HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18536.ts
+#EXTINF:0,NL | Cartoon Network  HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18537.ts
+#EXTINF:0,NL | Nick Music
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18538.ts
+#EXTINF:0,NL | Nick toons HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18539.ts
+#EXTINF:0,NL | Nick Junior HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18540.ts
+#EXTINF:0,NL | Disney Channel HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18541.ts
+#EXTINF:0,NL | Veronica/Disney XD HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18542.ts
+#EXTINF:0,NL | Nickelodeon HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18544.ts
+#EXTINF:0,TR: beIN Sports Haber FHD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18023.ts
+#EXTINF:0,TR: TiviBu Sport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18024.ts
+#EXTINF:0,TR: TiviBu Sport 2 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18025.ts
+#EXTINF:0,TR: TiviBu Sport 3 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18026.ts
+#EXTINF:0,TR: Smart Sport 1 HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18027.ts
+#EXTINF:0,TR: A Spor HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18029.ts
+#EXTINF:0,TR: A Spor FHD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18030.ts
+#EXTINF:0,TR: EuroSport 1
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18031.ts
+#EXTINF:0,TR: EuroSport 2
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18032.ts
+#EXTINF:0,TR: S Sports TV
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18033.ts
+#EXTINF:0,TR: TRT Sport HD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18034.ts
+#EXTINF:0,TR: TRT Spor FHD
+#EXTVLCOPT:network-caching=1000
+http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18035.ts
