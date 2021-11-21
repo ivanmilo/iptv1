@@ -1819,3 +1819,113 @@ http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18034.ts
 #EXTINF:0,TR: TRT Spor FHD
 #EXTVLCOPT:network-caching=1000
 http://live.niagarax.xyz:8000/live/nedz1019abc/JBGnemaDzaba456/18035.ts
+#EXTINF:-1 tvg-id="NOVA SPORT HD" tvg-link="" tvg-name="NOVA SPORT HD" tvg-logo="" group-title="SPORTSKI",NOVA SPORT HD
+http://psmedia.club:80/live.ts?channelId=3506&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="tv-arena-sport-1-hr.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="ARENA SPORT 1 HR HD" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 1 HR HD
+http://psmedia.club:80/live.ts?channelId=143&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="tv-arena-sport-2-hr.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="ARENA SPORT 2 HR HD" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 2 HR HD
+http://psmedia.club:80/live.ts?channelId=144&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="tv-arena-sport-3-hr.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="ARENA SPORT 3 HR HD" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 3 HR HD
+http://psmedia.club:80/live.ts?channelId=145&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="arena-sport-4-hr.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="ARENA SPORT 4 HR HD" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 4 HR HD
+http://psmedia.club:80/live.ts?channelId=146&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="arena-sport-5-hr.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="ARENA SPORT 5 HR HD" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 5 HR HD
+http://psmedia.club:80/live.ts?channelId=147&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="arena-sport-6-hr.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="ARENA SPORT 6 HR HD" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 6 HR HD
+http://psmedia.club:80/live.ts?channelId=148&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="ARENA SPORT 7 HR HD (xcp)" tvg-link="" tvg-name="ARENA SPORT 7 HR HD (xcp)" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 7 HR HD (xcp)
+http://psmedia.club:80/live.ts?channelId=6185&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="ARENA SPORT 7 HR HD" tvg-link="" tvg-name="ARENA SPORT 7 HR HD" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 7 HR HD
+http://psmedia.club:80/live.ts?channelId=6189&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="ARENA SPORT 8 HR HD" tvg-link="" tvg-name="ARENA SPORT 8 HR HD" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 8 HR HD
+http://psmedia.club:80/live.ts?channelId=6190&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="ARENA SPORT 9 HR HD" tvg-link="" tvg-name="ARENA SPORT 9 HR HD" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 9 HR HD
+http://psmedia.club:80/live.ts?channelId=6191&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="ARENA SPORT 10 HR HD" tvg-link="" tvg-name="ARENA SPORT 10 HR HD" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 10 HR HD
+http://psmedia.club:80/live.ts?channelId=6192&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="ARENA FIGHT HD" tvg-link="" tvg-name="ARENA FIGHT HD" tvg-logo="" group-title="SPORTSKI",ARENA FIGHT HD
+http://psmedia.club:80/live.ts?channelId=6193&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="ARENA SPORT 8 HR HD (xcp)" tvg-link="" tvg-name="ARENA SPORT 8 HR HD (xcp)" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 8 HR HD (xcp)
+http://psmedia.club:80/live.ts?channelId=6186&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="ARENA SPORT 9 HR HD (xcp)" tvg-link="" tvg-name="ARENA SPORT 9 HR HD (xcp)" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 9 HR HD (xcp)
+http://psmedia.club:80/live.ts?channelId=6187&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="ARENA SPORT 10 HR HD (xcp)" tvg-link="" tvg-name="ARENA SPORT 10 HR HD (xcp)" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 10 HR HD (xcp)
+http://psmedia.club:80/live.ts?channelId=6188&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="arena-sport-1-ba.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="ARENA SPORT 1 SR" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 1 SR
+http://psmedia.club:80/live.ts?channelId=149&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="arena-sport-1-ba.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="ARENA SPORT 1 SR BiH HD" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 1 SR BiH HD
+http://psmedia.club:80/live.ts?channelId=5818&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="tv-arena-sport-2.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="ARENA SPORT 2 SR" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 2 SR
+http://psmedia.club:80/live.ts?channelId=151&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="tv-arena-sport-3.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="ARENA SPORT 3 SR" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 3 SR
+http://psmedia.club:80/live.ts?channelId=152&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="tv-arena-sport-4.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="ARENA SPORT 4 SR" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 4 SR
+http://psmedia.club:80/live.ts?channelId=153&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="arena-sport-5.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="ARENA SPORT 1 SR FULL HD" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 1 SR FULL HD
+http://psmedia.club:80/live.ts?channelId=154&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="arena-sport-1-ba.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="ARENA SPORT 1 SR HD" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 1 SR HD
+http://psmedia.club:80/live.ts?channelId=155&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="tv-arena-sport-2.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="ARENA SPORT 2 SR HD" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 2 SR HD
+http://psmedia.club:80/live.ts?channelId=156&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="tv-arena-sport-3.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="ARENA SPORT 3 SR HD" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 3 SR HD
+http://psmedia.club:80/live.ts?channelId=157&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="tv-arena-sport-4.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="ARENA SPORT 4 SR HD" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 4 SR HD
+http://psmedia.club:80/live.ts?channelId=158&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="ARENA SPORT 5 SR HD" tvg-link="" tvg-name="ARENA SPORT 5 SR HD" tvg-logo="" group-title="SPORTSKI",ARENA SPORT 5 SR HD
+http://psmedia.club:80/live.ts?channelId=3238&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="ARENA SPORT E-SPORTS HD" tvg-link="" tvg-name="ARENA SPORT E-SPORTS HD" tvg-logo="" group-title="SPORTSKI",ARENA SPORT E-SPORTS HD
+http://psmedia.club:80/live.ts?channelId=6000&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="sport-klub-hd.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="SPORT KLUB HR HD" tvg-logo="" group-title="SPORTSKI",SPORT KLUB HR HD
+http://psmedia.club:80/live.ts?channelId=167&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="sport-klub.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="SPORT KLUB 1 HR HD" tvg-logo="" group-title="SPORTSKI",SPORT KLUB 1 HR HD
+http://psmedia.club:80/live.ts?channelId=168&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="sportklub-plus-rs.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="SPORT KLUB 2 HR HD" tvg-logo="" group-title="SPORTSKI",SPORT KLUB 2 HR HD
+http://psmedia.club:80/live.ts?channelId=169&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija.sp" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="SPORT KLUB 3 HR HD" tvg-logo="" group-title="SPORTSKI",SPORT KLUB 3 HR HD
+http://psmedia.club:80/live.ts?channelId=170&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="sport-klub-4.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="SPORT KLUB 4 HR" tvg-logo="" group-title="SPORTSKI",SPORT KLUB 4 HR
+http://psmedia.club:80/live.ts?channelId=171&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="SPORT KLUB E-SPORT" tvg-link="" tvg-name="SPORT KLUB E-SPORT" tvg-logo="" group-title="SPORTSKI",SPORT KLUB E-SPORT
+http://psmedia.club:80/live.ts?channelId=161&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="sport-klub-5.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="SPORT KLUB 5 HR" tvg-logo="" group-title="SPORTSKI",SPORT KLUB 5 HR
+http://psmedia.club:80/live.ts?channelId=172&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="sport-klub-6.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="SPORT KLUB 6 HR" tvg-logo="" group-title="SPORTSKI",SPORT KLUB 6 HR
+http://psmedia.club:80/live.ts?channelId=173&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="sport-klub.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="SPORT KLUB SR HD" tvg-logo="" group-title="SPORTSKI",SPORT KLUB SR HD
+http://psmedia.club:80/live.ts?channelId=174&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="sport-klub.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="SPORT KLUB 1 SR HD" tvg-logo="" group-title="SPORTSKI",SPORT KLUB 1 SR HD
+http://psmedia.club:80/live.ts?channelId=175&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="sportklub-plus-rs.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="SPORT KLUB 2 SR HD" tvg-logo="" group-title="SPORTSKI",SPORT KLUB 2 SR HD
+http://psmedia.club:80/live.ts?channelId=176&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="sportklub-plus-prime-srbija.sp" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="SPORT KLUB 3 SR HD" tvg-logo="" group-title="SPORTSKI",SPORT KLUB 3 SR HD
+http://psmedia.club:80/live.ts?channelId=177&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="sport-klub-4.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="SPORT KLUB 4 SR" tvg-logo="" group-title="SPORTSKI",SPORT KLUB 4 SR
+http://psmedia.club:80/live.ts?channelId=178&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="sport-klub-5.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="SPORT KLUB 5 SR" tvg-logo="" group-title="SPORTSKI",SPORT KLUB 5 SR
+http://psmedia.club:80/live.ts?channelId=179&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="sport-klub-6.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="SPORT KLUB 6 SR" tvg-logo="" group-title="SPORTSKI",SPORT KLUB 6 SR
+http://psmedia.club:80/live.ts?channelId=180&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="eurosport-hd.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="EUROSPORT 1 SR HD" tvg-logo="" group-title="SPORTSKI",EUROSPORT 1 SR HD
+http://psmedia.club:80/live.ts?channelId=159&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="eurosport-hd.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="EUROSPORT 1 SR FULL HD" tvg-logo="" group-title="SPORTSKI",EUROSPORT 1 SR FULL HD
+http://psmedia.club:80/live.ts?channelId=5996&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="eurosport2.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="EUROSPORT 2 SR HD" tvg-logo="" group-title="SPORTSKI",EUROSPORT 2 SR HD
+http://psmedia.club:80/live.ts?channelId=160&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="eurosport2.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="EUROSPORT 2 SR FULL HD" tvg-logo="" group-title="SPORTSKI",EUROSPORT 2 SR FULL HD
+http://psmedia.club:80/live.ts?channelId=5997&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="DE: SKY SPORT F1 HD" tvg-link="" tvg-name="DE: SKY SPORT F1 HD" tvg-logo="" group-title="SPORTSKI",DE: SKY SPORT F1 HD
+http://psmedia.club:80/live.ts?channelId=2505&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="fightchannel.sport" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="FIGHT CHANNEL" tvg-logo="" group-title="SPORTSKI",FIGHT CHANNEL
+http://psmedia.club:80/live.ts?channelId=162&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="planet-sport-1" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="PLANET SPORT 1 HD" tvg-logo="" group-title="SPORTSKI",PLANET SPORT 1 HD
+http://psmedia.club:80/live.ts?channelId=163&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="planet-sport-2" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="PLANET SPORT 2  HD" tvg-logo="" group-title="SPORTSKI",PLANET SPORT 2  HD
+http://psmedia.club:80/live.ts?channelId=164&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="planet-sport-3" tvg-link="http://51.15.62.63/ciro/ciro.xml" tvg-name="PLANET SPORT 3 HD" tvg-logo="" group-title="SPORTSKI",PLANET SPORT 3 HD
+http://psmedia.club:80/live.ts?channelId=165&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="PLANET SPORT 4 HD" tvg-link="" tvg-name="PLANET SPORT 4 HD" tvg-logo="" group-title="SPORTSKI",PLANET SPORT 4 HD
+http://psmedia.club:80/live.ts?channelId=2513&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="PLANET SPORT 5 HD" tvg-link="" tvg-name="PLANET SPORT 5 HD" tvg-logo="" group-title="SPORTSKI",PLANET SPORT 5 HD
+http://psmedia.club:80/live.ts?channelId=2514&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
+#EXTINF:-1 tvg-id="MOJA TV SPORT (PREMIJER LIGA BiH)" tvg-link="" tvg-name="MOJA TV SPORT (PREMIJER LIGA BiH)" tvg-logo="" group-title="SPORTSKI",MOJA TV SPORT (PREMIJER LIGA BiH)
+http://psmedia.club:80/live.ts?channelId=166&deviceUser=emina_samir_mulalic_dreambox&devicePass=NiUghj8jPy6xKjuEKIf7&uid=4718
